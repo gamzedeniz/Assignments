@@ -1,0 +1,13 @@
+Consultant: Ahmet Kos
+Portfolio 1: Name: Beysu Kent2 - Type: Rental - Category: Store - Price: 20000 - Visitors:5
+Portfolio 2: Name: Angora Evleri1 - Type: Rental - Category: Building - Price: 2000 - Visitors:20
+Consultant: Veli Gel
+Portfolio 1: Name: Ege sitesi2 - Type: Sale - Category: House - Price: 5000 - Visitors:1
+Portfolio 2: Name: Ege sitesi3 - Type: Sale - Category: House - Price: 500000 - Visitors:1
+Consultant: Begüm Tuzyer
+Portfolio 1: Name: Antares sitesi1 - Type: Rental - Category: Store - Price: 2400 - Visitors:7
+Consultant: Hilal Kurt
+Portfolio 1: Name: Meryem sitesi1 - Type: Sale - Category: House - Price: 50048 - Visitors:10
+Portfolio 2: Name: Gün sitesi2 - Type: Rental - Category: Building - Price: 500 - Visitors:5
+Consultant: Gamze Deniz
+Portfolio 1: Name: Yesim sitesi1 - Type: Sale - Category: House - Price: 500 - Visitors:5

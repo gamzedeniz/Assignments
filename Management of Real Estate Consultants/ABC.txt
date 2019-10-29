@@ -1,0 +1,8 @@
+Ahmet Kos/Angora Evleri1/R/B/2000/20
+Veli Gel/Ege sitesi2/S/H/5000/1
+Ahmet Kos/Beysu Kent2/R/S/20000/5
+Veli Gel/Ege sitesi3/S/H/500000/1
+Begüm Tuzyer/Antares sitesi1/R/S/2400/7
+Hilal Kurt/Meryem sitesi1/S/H/50048/10
+Hilal Kurt/Gün sitesi2/R/B/500/5
+Gamze Deniz/Yesim sitesi1/S/H/500/5
